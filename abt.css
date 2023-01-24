@@ -1,0 +1,36 @@
+.abtimg{
+    margin-top: 90px;
+    margin-left: 50px;
+}
+.abtcnt{
+    color:gray;
+    text-align: center;
+    padding: 20px;
+    letter-spacing: 1px;
+    font-size: 23px;
+    line-height: 43px;
+    padding-top: 38px;
+}
+.abt{
+    color: rgba(255, 255, 255, 0.712);
+    text-align: center;
+    margin-top: 100px;   
+    font-size: 35px;
+}
+
+.aboutt{
+    margin-left: -700px;
+    border-right: solid white;
+    margin-top: -px;
+    
+}
+
+.skill-bars{
+    width:40px;
+    height: 20px;
+    
+}
+.about{
+    margin-top: -600px;
+    margin-left: 200px;
+}

@@ -1,0 +1,19 @@
+#skills{
+    background-image: url(assets/img/Untitled\ design\ \(11\).png);
+}
+.skill-cnt{
+    color:gray;
+    margin-left:50rem;
+    padding: 20px;
+    letter-spacing: 1px;
+    font-size: 22px;
+    line-height: 40px;
+    padding-top: 250px;
+    margin-top: -4rem;
+}
+.skills-head{
+    color: rgba(255, 255, 255, 0.712);
+    margin-left:40rem;
+    margin-top: -23.5rem;
+    font-size: 35px;
+}

@@ -1,0 +1,51 @@
+.cnt-head{
+    margin-top: 60px;
+    font-size: 34px;
+    margin-left: 40px;
+}
+.cnt-frm input,textarea{
+    background-color: rgba(63, 59, 59, 0.158);
+    border:solid rgba(102, 102, 102, 0.349) .2px;
+    padding: 19px;
+    color: aliceblue;
+    margin-top: 15px;
+}
+
+.cnt-frm{
+    font-size: 36px;
+    margin-left: 300px;
+    margin-top: 32px;
+    
+}
+.frm-btn{
+    padding: 7px;
+    font-size: 17px;
+    background-color:rgba(26, 255, 129, 0.705);
+    color: rgba(0, 0, 0, 0.925);
+
+}
+.details{
+    float: right;
+    margin-right: 370px;
+    margin-top: -480px;
+    letter-spacing: 2px;
+    color:gray;
+}
+.details h3{
+    margin-top: 10px;
+}
+.socio{
+    margin-top: 60px;
+}
+.socio-icon{
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.socio-icon a{
+    margin-left: 16px;
+}
+#contact{
+    background-image: url(assets/img/Untitled\ design\ \(6\).png);
+}
+
+
